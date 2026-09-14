@@ -1,0 +1,1 @@
+print("Servidor SICA iniciado com sucesso!")
